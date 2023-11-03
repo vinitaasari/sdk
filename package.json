@@ -1,6 +1,8 @@
 {
   "name": "connectedminds-sdk",
   "version": "0.1.5",
+  "main": "dist/index.js",
+  "module": "src/index.js",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
